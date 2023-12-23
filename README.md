@@ -1,2 +1,2 @@
 # yipy
-A social media site
+_A social media site_
